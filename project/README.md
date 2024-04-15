@@ -1,8 +1,9 @@
-# my project
+# my project 
+#project name : Book search
 
 #### Date, 2024/04/12
 
-#### By *TREYJEY OGHERA*
+#### Author  *TREYJEY OGHERA*
 
 ## Description
 It is an app like that uses fetch method to get the book that someone searches and gives her/him all boooks of that name and authors 
