@@ -39,3 +39,8 @@ document.addEventListener("DOMContentLoaded", function() {
       document.getElementById("searchResults").innerHTML = "";
   }
 });
+// This function will be called when the page loads
+document.addEventListener("DOMContentLoaded", function() {
+    // Display an alert when the page loads
+    alert("Welcome to the Book Search Web Application!");
+});
