@@ -47,19 +47,6 @@ You use git clone to be able to download the documents in the GitHub
 
 ## Installation Requirements
 Git
-### Installation instruction
-```
-## Technologies used
-Github
-Javascript
-css
-html
 
-## Support and contact details
-github.com/treyjey-oghera
-
-live link
-
-
-
-
+#live link
+https://openlibrary.org/search.json
